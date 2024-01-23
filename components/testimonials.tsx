@@ -12,15 +12,15 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Don't take our word for it</h2>
-            <p className="text-xl text-gray-400">Vitae aliquet nec ullamcorper sit amet risus nullam eget felis semper quis lectus nulla at volutpat diam ut venenatis tellus—in ornare.</p>
+            <h2 className="h2 mb-4">Founders have been backed by some of the biggest names in the past.</h2>
+            <p className="text-xl text-gray-400">We're backed by OrangeDAO and our previous work has been supported by Ethereum, Optimism, Arbitrum Foundations & Uniswap Foundations</p>
           </div>
 
           {/* Testimonials */}
           <div className="max-w-sm mx-auto grid gap-8 lg:grid-cols-3 lg:gap-6 items-start lg:max-w-none">
 
             {/* 1st testimonial */}
-            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
+{/*            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up">
               <div>
                 <div className="relative inline-flex flex-col mb-4">
                   <Image className="rounded-full" src={TestimonialImage01} width={48} height={48} alt="Testimonial 01" />
@@ -34,9 +34,9 @@ export default function Testimonials() {
                 <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
             </div>
-
+*/}
             {/* 2nd testimonial */}
-            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="200">
+{/*            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="200">
               <div>
                 <div className="relative inline-flex flex-col mb-4">
                   <Image className="rounded-full" src={TestimonialImage02} width={48} height={48} alt="Testimonial 02" />
@@ -50,9 +50,9 @@ export default function Testimonials() {
                 <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
             </div>
-
+*/}
             {/* 3rd testimonial */}
-            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="400">
+{/*            <div className="flex flex-col h-full p-6 bg-gray-800" data-aos="fade-up" data-aos-delay="400">
               <div>
                 <div className="relative inline-flex flex-col mb-4">
                   <Image className="rounded-full" src={TestimonialImage03} width={48} height={48} alt="Testimonial 03" />
@@ -66,7 +66,7 @@ export default function Testimonials() {
                 <cite className="text-gray-200 not-italic">Anastasia Dan</cite> - <a className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out" href="#0">UX Board</a>
               </div>
             </div>
-
+*/}
           </div>
 
         </div>
